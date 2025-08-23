@@ -1,1 +1,3 @@
 # Race-Car-Game
+
+This is the code for a race car game. It is based on 2D arrays, functions and loops. Upon running the program, an opening screen pops up where the name of the game is visible. This is followed by a list of instructions which describe the method of playing the game. The program will ask you to enter the difficulty level for the game. You can enter E for easy, M for medium and H for hard (All instructions for the user appear when you run the program). On clicking the Enter key, you will be asked to click any key to proceed to playing the game. On doing this, the game interface appears, and you can use the right and left arrow keys to move the car. Once you collide with an obstacle, the game stops and you must click the Enter key to view your scores.
