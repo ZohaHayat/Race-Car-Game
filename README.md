@@ -1,3 +1,23 @@
-# Race-Car-Game
+# Race Car Game
 
-This is the code for a race car game. It is based on 2D arrays, functions and loops. Upon running the program, an opening screen pops up where the name of the game is visible. This is followed by a list of instructions which describe the method of playing the game. The program will ask you to enter the difficulty level for the game. You can enter E for easy, M for medium and H for hard (All instructions for the user appear when you run the program). On clicking the Enter key, you will be asked to click any key to proceed to playing the game. On doing this, the game interface appears, and you can use the right and left arrow keys to move the car. Once you collide with an obstacle, the game stops and you must click the Enter key to view your scores.
+## Project Description
+This is a 2D race car game implemented using arrays, functions, and loops. The game features an interactive interface where players navigate a car while avoiding obstacles. Upon running the program, an opening screen appears displaying the game’s title, followed by instructions on how to play.  
+
+Players can choose the difficulty level:
+- **E** – Easy  
+- **M** – Medium  
+- **H** – Hard  
+
+After selecting the difficulty and pressing Enter, the game starts. Players use the **left** and **right arrow keys** to control the car. The game ends when the car collides with an obstacle, and pressing Enter displays the final score.  
+
+## Features
+- 2D race car simulation  
+- Multiple difficulty levels (Easy, Medium, Hard)  
+- Interactive instructions and opening screen  
+- Collision detection and scoring system  
+- Keyboard controls for car movement  
+
+## Technologies Used
+- Programming Language: C++ / Python / Java (replace with the actual one)  
+- 2D arrays, loops, and functions for game logic  
+- Keyboard input handling for controls  
